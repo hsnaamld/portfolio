@@ -79,7 +79,7 @@ include 'removeWM.php';
                                 
                                 <div class="fs-3 fw-light text-muted">Hello,</div>
                                 <h1 class="display-3 fw-bolder mb-5" style="color: #A39CF2;">I'm Hasna Maulida</h1>
-                                <div class="badge text-white mb-4" style="background-color:  #F26C7C;;"><div class="text-uppercase">Full Stack Web Developer</div></div>
+                                <div class="badge text-white mb-4" style="background-color:  #F26C7C;;"><div class="text-uppercase">Front End Web Developer</div></div>
                             </div>
                         </div>
                         <div class="col-xxl-7">
